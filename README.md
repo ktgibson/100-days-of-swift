@@ -8,10 +8,10 @@ https://www.hackingwithswift.com/100/swiftui
 
 Type               | Number  | Completion
 :---               |  :---:  |   :---:
-Projects           | 19 / 19 | 100%
-Challenges         | 57 / 57 | 100%
-Milestone Projects |  6 / 6  | 100%
-Challenge days     |  1 / 1  | 100%
+Projects           | 0 / 19 | 0%
+Challenges         | 0 / 57 | 0%
+Milestone Projects | 0 / 6  | 0%
+Challenge days     | 0 / 1  | 0%
 
 ## Preview
 
