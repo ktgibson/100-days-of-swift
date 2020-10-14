@@ -6,12 +6,12 @@ https://www.hackingwithswift.com/100/swiftui
 
 ## Completion status
 
-Type               | Number  | Completion
-:---               |  :---:  |   :---:
-Projects           | 0 / 30 | 0%
-Challenges         | 0 / 57 | 0%
-Milestone Projects | 0 / 6  | 0%
-Final Exam         | 0 / 1  | 0%
+Type                | Number  | Completion
+:---                |  :---:  |   :---:
+Projects            | 0 / 30 | 0%
+Challenges          | 0 / 90 | 0%
+Milestone Projects  | 0 / 10  | 0%
+Core Graphics redux | 0 / 1  | 0%
 
 ## Preview
 
