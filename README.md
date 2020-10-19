@@ -1,6 +1,6 @@
-# 100-days-of-swiftui
+# 100-days-of-swift
 
-Solutions to Paul Hudson's "100 days of SwiftUI" projects and challenges.
+My work on 100 days of swift! All work in here will be built using UIKit. SwiftUI will be later this year.
 
 https://www.hackingwithswift.com/100/swiftui
 
